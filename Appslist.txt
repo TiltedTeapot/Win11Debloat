@@ -40,13 +40,13 @@ Microsoft.ZuneVideo                            # Movies & TV app for renting/buy
 MicrosoftCorporationII.MicrosoftFamily         # Family Safety App for managing family accounts and settings
 MicrosoftCorporationII.QuickAssist             # Remote assistance tool
 MicrosoftTeams                                 # Old MS Teams personal (MS Store version)
-MSTeams                                        # New MS Teams app (Work/School or Personal)
+#MSTeams                                        # New MS Teams app (Work/School or Personal)
 
 ACGMediaPlayer                                 # Media player app
 ActiproSoftwareLLC                             # Potentially UI controls or software components, often bundled by OEMs
 AdobeSystemsIncorporated.AdobePhotoshopExpress # Basic photo editing app from Adobe
-Amazon.com.Amazon                              # Amazon shopping app
-AmazonVideo.PrimeVideo                         # Amazon Prime Video streaming service app
+#Amazon.com.Amazon                              # Amazon shopping app
+#AmazonVideo.PrimeVideo                         # Amazon Prime Video streaming service app
 Asphalt8Airborne                               # Racing game
 AutodeskSketchBook                             # Digital drawing and sketching app
 CaesarsSlotsFreeCasino                         # Casino slot machine game
@@ -70,19 +70,19 @@ king.com.CandyCrushSaga                        # Puzzle game from King
 king.com.CandyCrushSodaSaga                    # Puzzle game from King
 LinkedInforWindows                             # LinkedIn professional networking app
 MarchofEmpires                                 # Strategy game
-Netflix                                        # Netflix streaming service app
+#Netflix                                        # Netflix streaming service app
 NYTCrossword                                   # New York Times crossword puzzle app
 OneCalendar                                    # Calendar aggregation app
 PandoraMediaInc                                # Pandora music streaming app
 PhototasticCollage                             # Photo collage creation app
 PicsArt-PhotoStudio                            # Photo editing and creative app
-Plex                                           # Media server and player app
+#Plex                                           # Media server and player app
 PolarrPhotoEditorAcademicEdition               # Photo editing app (Academic Edition)
 Royal Revolt                                   # Tower defense / strategy game
-Shazam                                         # Music identification app
+#Shazam                                         # Music identification app
 Sidia.LiveWallpaper                            # Live wallpaper app
 SlingTV                                        # Live TV streaming service app
-Spotify                                        # Spotify music streaming app
+#Spotify                                        # Spotify music streaming app
 TikTok                                         # TikTok short-form video app
 TuneInRadio                                    # Internet radio streaming app
 Twitter                                        # Twitter (now X) social media app
